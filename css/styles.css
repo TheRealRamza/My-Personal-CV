@@ -1,0 +1,23 @@
+body {background-color:#eeecda; }
+hr {
+border-color: #3f4441;
+border-style:none;
+border-top-style: dotted;
+width: 5%;
+}
+h1{text-align: center;
+  color: #c7b198;
+font-family: monospace;}
+h3 {text-align: center;
+  color: #c7b198;}
+ul {list-style-type: none;}
+
+body{align-items: center;
+     color: #3f4441;
+font-family: monospace;
+font-size: 16px;
+}
+img .center{display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;}
